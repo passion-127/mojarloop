@@ -6,12 +6,12 @@
 
 Mojaloop aims at creating payment platforms that are interoperable, connecting digital financial service providers and customers by providing specifications, standards and open-source software.
 
-[![Git Releases](https://img.shields.io/github/v/release/mojaloop/helm?label=helm%20version)](https://github.com/mojaloop/helm/releases)
+[![Git Releases](https://img.shields.io/github/v/release/mojaloop/helm?label=helm%20version)](https://github.com/passion-127/helm/releases)
 [![License](https://img.shields.io/badge/Licence-Apache%202.0-orange.svg)](./LICENSE.md)
 
 ## Documentation
 - [Official Mojaloop Documentation](https://docs.mojaloop.io/documentation)
-- [Mojaloop Specification](https://github.com/mojaloop/mojaloop-specification)
+- [Mojaloop Specification](https://github.com/passion-127/mojaloop-specification)
 - [Developer Onboarding Guide](./onboarding.md)
 - [Deploy Mojaloop On Kubernetes](https://docs.mojaloop.io/documentation/deployment-guide/)
 - [Mojaloop Business Documentation](https://docs.mojaloop.io/mojaloop-business-docs/)
@@ -32,7 +32,7 @@ __Channels:__
 Refer to the [Contributors guide](https://docs.mojaloop.io/documentation/contributors-guide/) to get started making contributions.
 
 You may also want to read:
-- [Mojaloop Github Project](https://github.com/mojaloop/project)
+- [Mojaloop Github Project](https://github.com/passion-127/project)
   > _note: You must install the [ZenHub extension](https://www.zenhub.com/extension) in order to see the Project Kanban Board_
 - [Developer Onboarding Guide](./onboarding.md)
 
@@ -44,18 +44,18 @@ Refer to the [Mojaloop Repository Overview](https://docs.mojaloop.io/documentati
 
 As a quick reference, some of the most important repositories for contributors are:
 
-- [central-ledger](https://github.com/mojaloop/central-ledger) - Core Service in charge of managing transfers between DFSPs
-- [ml-api-adapter](https://github.com/mojaloop/ml-api-adapter) - Translation layer to convert to/from Mojaloop API to an internal format that is used in Central Services Stack.
-- [account-lookup-service](https://github.com/mojaloop/account-lookup-service) - A service for managing party accounts across a Mojaloop environment
-- [helm](https://github.com/mojaloop/helm) - The Helm chart development for deploying Mojaloop on Kubernetes
-- [postman](https://github.com/mojaloop/postman) - A set of Postman scripts for testing and managing a Mojaloop environment
-- [documentation](https://github.com/mojaloop/documentation) - The mojaloop documentation, published [here](https://docs.mojaloop.io/documentation)
+- [central-ledger](https://github.com/passion-127/central-ledger) - Core Service in charge of managing transfers between DFSPs
+- [ml-api-adapter](https://github.com/passion-127/ml-api-adapter) - Translation layer to convert to/from Mojaloop API to an internal format that is used in Central Services Stack.
+- [account-lookup-service](https://github.com/passion-127/account-lookup-service) - A service for managing party accounts across a Mojaloop environment
+- [helm](https://github.com/passion-127/helm) - The Helm chart development for deploying Mojaloop on Kubernetes
+- [postman](https://github.com/passion-127/postman) - A set of Postman scripts for testing and managing a Mojaloop environment
+- [documentation](https://github.com/passion-127/documentation) - The mojaloop documentation, published [here](https://docs.mojaloop.io/documentation)
 
 ### Creating New Issues
 
-We use the [mojaloop/project](https://github.com/mojaloop/project) repository as an issue tracker for all repositories across the Mojaloop Project.
+We use the [mojaloop/project](https://github.com/passion-127/project) repository as an issue tracker for all repositories across the Mojaloop Project.
 
-When creating a new issue, select from the issue templates provided [here](https://github.com/mojaloop/project/issues/new/choose)
+When creating a new issue, select from the issue templates provided [here](https://github.com/passion-127/project/issues/new/choose)
 
 
 ## Support from the wider community
