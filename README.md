@@ -29,6 +29,7 @@ __Channels:__
 - `#ml-oss-bug-triage` - Discussion and triage for new bugs and issues
 
 ## Contributing
+
 Refer to the [Contributors guide](https://docs.mojaloop.io/documentation/contributors-guide/) to get started making contributions.
 
 You may also want to read:
