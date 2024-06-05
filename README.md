@@ -10,7 +10,6 @@ Mojaloop aims at creating payment platforms that are interoperable, connecting d
 [![License](https://img.shields.io/badge/Licence-Apache%202.0-orange.svg)](./LICENSE.md)
 
 ## Documentation
-
 - [Official Mojaloop Documentation](https://docs.mojaloop.io/documentation)
 - [Mojaloop Specification](https://github.com/passion-127/mojaloop-specification)
 - [Developer Onboarding Guide](./onboarding.md)
