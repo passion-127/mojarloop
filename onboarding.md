@@ -42,6 +42,7 @@ Brew is a package manager for macOS. The simplest installation method is:
 Most of the tools we install with `brew` are available on existing linux package managers, such as `apt` and `yum`. That doesn't stop you from using brew on Linux if you'd like. You can follow the [Official Linux Installation Guide](https://docs.brew.sh/Homebrew-on-Linux) to do so.
 
 #### Windows
+
 [todo: find alternative]
 
 
