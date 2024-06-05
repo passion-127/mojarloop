@@ -20,7 +20,6 @@ We treat each other openly and respectfully, we evaluate contributions with fair
 The Code of Conduct governs how we behave in public or in private, virtually or in person. We expect it to be honoured by everyone who represents the project officially or informally, claims affiliation with the project, or participates directly.
 
 ### We strive to:
-
 -   **Be Considerate**\
     Our work will be used by other people, and we in turn will depend on the work of others. Any decision we take will affect everyone involved in our ecosystem, and we should consider all relevant aspects when making decisions.
 
